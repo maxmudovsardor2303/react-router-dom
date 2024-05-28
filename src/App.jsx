@@ -3,7 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import { Routes, Route } from 'react-router-dom'
 import Login from './components/login/login'
 import Cars from './components/cars/cars'
-import SingleCar from './components/single-car/single-car';
+
 
 function App() {
 
